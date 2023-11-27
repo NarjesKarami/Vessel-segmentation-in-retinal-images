@@ -16,7 +16,7 @@ Since the dataset is small we will employ the data augmentation techniques to in
   
 Moreover, every image is divided to small patches. The figure bellow shows a sample of patches.
 
-![image](https://github.com/NarjesKarami/Vessel-segmentation-in-retinal-images/assets/78353927/d7d4e666-61e7-49f9-91a5-2997ea153a85)
+![image](https://github.com/NarjesKarami/Vessel-segmentation-in-retinal-images/assets/78353927/03789bd4-bf1d-4e5b-8048-029fba411b77)
   
 ### Method
 We will use U-net and Residual- Unet (ResNet) architectures to segment the retinal blood vessels.
