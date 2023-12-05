@@ -14,7 +14,7 @@ Since the dataset is small we will employ the data augmentation techniques to in
 - brightness change
 - gaussian noise addition 
   
-Moreover, every image is divided to small patches. The figure bellow shows a sample of patches.
+Moreover, the complete image is divided into multiple patches. These patches are individually segmented and predicted before being reassembled to reconstruct the initial image. The figure bellow shows a sample of patches.
 
 ![image](https://github.com/NarjesKarami/Vessel-segmentation-in-retinal-images/assets/78353927/03789bd4-bf1d-4e5b-8048-029fba411b77)
   
