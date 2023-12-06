@@ -1,4 +1,4 @@
-# Vessel-segmentation-in-retinal-images
+# Vessel segmentation in retinal images
 Retinal vessels segmentation plays a vital role in the diagnosis and screening of many fundus and cardiovascular diseases. 
 The process of retinal vessel segmentation is accomplished by classifying each pixel in a fundus image into either vessels or background, essentially implementing a binary classification for every pixel in the image.
 ### Dataset
